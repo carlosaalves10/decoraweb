@@ -1,0 +1,657 @@
+{
+    "menu-item#70x300":{
+        "props": {
+          "id": "menu-item-category-70x300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/70-300",
+            "noFollow": false,
+            "tagTitle": "70x300",
+            "text": "70x300"
+          }
+        }
+      },
+
+      "menu-item#70x200":{
+        "props": {
+          "id": "menu-item-category-70x200",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/70-200",
+            "noFollow": false,
+            "tagTitle": "70x200",
+            "text": "70x200"
+          }
+        }
+      },
+
+      "menu-item#70x250":{
+        "props": {
+          "id": "menu-item-category-70x250",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/70-250",
+            "noFollow": false,
+            "tagTitle": "70x250",
+            "text": "70x250"
+          }
+        }
+      },
+
+      "menu-item#70x400":{
+        "props": {
+          "id": "menu-item-category-70x400",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/70-400",
+            "noFollow": false,
+            "tagTitle": "70x400",
+            "text": "70x400"
+          }
+        }
+      },
+
+      "menu-item#80x300":{
+        "props": {
+          "id": "menu-item-category-80x300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/80-300",
+            "noFollow": false,
+            "tagTitle": "80x300",
+            "text": "80x300"
+          }
+        }
+      },
+    
+      "menu-item#sob-medida":{
+        "props": {
+          "id": "menu-item-category-sob-medida",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/sob-medida",
+            "noFollow": false,
+            "tagTitle": "SOB MEDIDA",
+            "text": "SOB MEDIDA"
+          }
+        }
+      },
+
+      "menu-item#100-redondo":{
+        "props": {
+          "id": "menu-item-category-100-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/100-redondo",
+            "noFollow": false,
+            "tagTitle": "100 REDONDO",
+            "text": "100 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#150-redondo":{
+        "props": {
+          "id": "menu-item-category-150-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/150-redondo",
+            "noFollow": false,
+            "tagTitle": "150 REDONDO",
+            "text": "150 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#200-redondo":{
+        "props": {
+          "id": "menu-item-category-200-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/200-redondo",
+            "noFollow": false,
+            "tagTitle": "200 REDONDO",
+            "text": "200 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#250-redondo":{
+        "props": {
+          "id": "menu-item-category-250-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/250-redondo",
+            "noFollow": false,
+            "tagTitle": "250 REDONDO",
+            "text": "250 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#300-redondo":{
+        "props": {
+          "id": "menu-item-category-300-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/300-redondo",
+            "noFollow": false,
+            "tagTitle": "300 REDONDO",
+            "text": "300 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#350-redondo":{
+        "props": {
+          "id": "menu-item-category-350-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/350-redondo",
+            "noFollow": false,
+            "tagTitle": "350 REDONDO",
+            "text": "350 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#400-redondo":{
+        "props": {
+          "id": "menu-item-category-400-redondo",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/400-redondo",
+            "noFollow": false,
+            "tagTitle": "400 REDONDO",
+            "text": "400 REDONDO"
+          }
+        }
+      },
+
+      "menu-item#quadrado-150x150":{
+        "props": {
+          "id": "menu-item-category-quadrado-150x150",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-150-150",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 150X150",
+            "text": "QUADRADO 150X150"
+          }
+        }
+      },
+
+      "menu-item#quadrado-200x200":{
+        "props": {
+          "id": "menu-item-category-quadrado-200x200",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-200-200",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 200x200",
+            "text": "QUADRADO 200x200"
+          }
+        }
+      },
+
+      "menu-item#quadrado-250x250":{
+        "props": {
+          "id": "menu-item-category-quadrado-250x250",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-250-250",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 250x250",
+            "text": "QUADRADO 250x250"
+          }
+        }
+      },
+
+      "menu-item#quadrado-300x300":{
+        "props": {
+          "id": "menu-item-category-quadrado-300x300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-300-300",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 300x300",
+            "text": "QUADRADO 300x300"
+          }
+        }
+      },
+
+      "menu-item#quadrado-350x350":{
+        "props": {
+          "id": "menu-item-category-quadrado-350x350",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-350-350",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 350x350",
+            "text": "QUADRADO 350x350"
+          }
+        }
+      },
+
+      "menu-item#quadrado-400x400":{
+        "props": {
+          "id": "menu-item-category-quadrado-400x400",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/quadrado-400-400",
+            "noFollow": false,
+            "tagTitle": "QUADRADO 400x400",
+            "text": "QUADRADO 400x400"
+          }
+        }
+      },
+
+      "menu-item#retangular-100x150":{
+        "props": {
+          "id": "menu-item-category-retangular-100x150",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-100-150",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 100X150",
+            "text": "RETANGULAR 100X150"
+          }
+        }
+      },
+
+      "menu-item#retangular-150x200":{
+        "props": {
+          "id": "menu-item-category-retangular-150x200",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-150-200",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 150x200",
+            "text": "RETANGULAR 150x200"
+          }
+        }
+      },
+
+      "menu-item#retangular-200x250":{
+        "props": {
+          "id": "menu-item-category-retangular-200x250",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-200-250",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 200x250",
+            "text": "RETANGULAR 200x250"
+          }
+        }
+      },
+
+      "menu-item#retangular-200x300":{
+        "props": {
+          "id": "menu-item-category-retangular-200x300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-200-300",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 200x300",
+            "text": "RETANGULAR 200x300"
+          }
+        }
+      },
+
+      "menu-item#retangular-250x300":{
+        "props": {
+          "id": "menu-item-category-retangular-250x300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-250-300",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 250x300",
+            "text": "RETANGULAR 250x300"
+          }
+        }
+      },
+
+      "menu-item#retangular-250x350":{
+        "props": {
+          "id": "menu-item-category-retangular-250x350",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-250-350",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 250x350",
+            "text": "RETANGULAR 250x350"
+          }
+        }
+      },
+
+      "menu-item#retangular-300x400":{
+        "props": {
+          "id": "menu-item-category-retangular-300x400",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-300-400",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 300x400",
+            "text": "RETANGULAR 300x400"
+          }
+        }
+      },
+
+      "menu-item#retangular-350x400":{
+        "props": {
+          "id": "menu-item-category-retangular-350x400",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-350-400",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 350x400",
+            "text": "RETANGULAR 350x400"
+          }
+        }
+      },
+
+      "menu-item#retangular-350x450":{
+        "props": {
+          "id": "menu-item-category-retangular-350x450",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-350-450",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 350x450",
+            "text": "RETANGULAR 350x450"
+          }
+        }
+      },
+
+      "menu-item#retangular-400x500":{
+        "props": {
+          "id": "menu-item-category-retangular-400x500",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-400-500",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 400x500",
+            "text": "RETANGULAR 400x500"
+          }
+        }
+      },
+
+      "menu-item#retangular-400x600":{
+        "props": {
+          "id": "menu-item-category-retangular-400x600",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-400-600",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 400x600",
+            "text": "RETANGULAR 400x600"
+          }
+        }
+      },
+
+      "menu-item#retangular-400x450":{
+        "props": {
+          "id": "menu-item-category-retangular-400x450",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-400-450",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 400x450",
+            "text": "RETANGULAR 400x450"
+          }
+        }
+      },
+
+      "menu-item#retangular-60x120":{
+        "props": {
+          "id": "menu-item-category-retangular-60x120",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-60-120",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 60x120",
+            "text": "RETANGULAR 60x120"
+          }
+        }
+      },
+
+      "menu-item#retangular-70x140":{
+        "props": {
+          "id": "menu-item-category-retangular-70x140",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/retangular-70-140",
+            "noFollow": false,
+            "tagTitle": "RETANGULAR 70x140",
+            "text": "RETANGULAR 70x140"
+          }
+        }
+      },
+
+      "menu-item#sob-medida2":{
+        "props": {
+          "id": "menu-item-category-sob-medida2",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/sob-medida",
+            "noFollow": false,
+            "tagTitle": "SOB MEDIDA",
+            "text": "SOB MEDIDA"
+          }
+        }
+      },
+
+      "menu-item#couros-peles":{
+        "props": {
+          "id": "menu-item-category-couros-peles",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/couros-peles",
+            "noFollow": false,
+            "tagTitle": "COUROS / PELES",
+            "text": "COUROS / PELES"
+          }
+        }
+      },
+
+      "menu-item#estilo-persa":{
+        "props": {
+          "id": "menu-item-category-estilo-persa",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/estilo-persa",
+            "noFollow": false,
+            "tagTitle": "ESTILO PERSA",
+            "text": "ESTILO PERSA"
+          }
+        }
+      },
+
+      "menu-item#kilim":{
+        "props": {
+          "id": "menu-item-category-kilim",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/kilim",
+            "noFollow": false,
+            "tagTitle": "KILIM",
+            "text": "KILIM"
+          }
+        }
+      },
+
+      "menu-item#liso":{
+        "props": {
+          "id": "menu-item-category-liso",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/liso",
+            "noFollow": false,
+            "tagTitle": "LISO",
+            "text": "LISO"
+          }
+        }
+      },
+
+      "menu-item#modernos":{
+        "props": {
+          "id": "menu-item-category-modernos",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/modernos",
+            "noFollow": false,
+            "tagTitle": "MODERNOS",
+            "text": "MODERNOS"
+          }
+        }
+      },
+
+      "menu-item#sisal-sintetico":{
+        "props": {
+          "id": "menu-item-category-sisal-sintetico",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/sisal-sintetico",
+            "noFollow": false,
+            "tagTitle": "SISAL SINTÉTICO",
+            "text": "SISAL SINTÉTICO"
+          }
+        }
+      },
+
+      "menu-item#tear":{
+        "props": {
+          "id": "menu-item-category-tear",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tear",
+            "noFollow": false,
+            "tagTitle": "TEAR",
+            "text": "TEAR"
+          }
+        }
+      }
+}

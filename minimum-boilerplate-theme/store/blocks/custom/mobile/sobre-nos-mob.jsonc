@@ -1,0 +1,13 @@
+{
+    "responsive-layout.mobile#sobre":{
+    "children":[
+        "rich-text#sobre-title-phone"
+    ]
+},
+
+"rich-text#sobre-title-phone":{
+    "props":{
+        "text": "Sobre Nós \n\n A empresa DecoraWeb fundada em 2021, está localizada em Pinheiros, São Paulo. Com o propósito de oferecer aos nossos clientes produtos essenciais ao conforto e bem-estar através de nossa plataforma de e-commerce. Constantemente buscamos as melhores marcas do mercado para trazer a melhor experiência para a vida das pessoas. Estamos à disposição para ajudá-lo(a), entre em contato através de nossos canais de comunicação e será um prazer atendê-lo(a)."
+    }
+}
+}
