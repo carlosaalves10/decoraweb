@@ -1,0 +1,261 @@
+{
+      "menu-item#tamanhos-250-300":{
+        "props": {
+          "id": "menu-item-category-tamanhos-250-300",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tamanhos-250-300",
+            "noFollow": false,
+            "tagTitle": "TAMANHOS 250X300",
+            "text": "TAMANHOS 250X300"
+          }
+        },
+
+        "blocks": [
+          "vtex.menu@2.x:submenu#category-tamanhos-250-300"
+        ]
+      },
+      "vtex.menu@2.x:submenu#category-tamanhos-250-300": {
+        "props": {
+          "width": "auto"
+        },
+        "children": [
+          "vtex.menu@2.x:menu#category-tamanhos-250-300"
+        ]
+      },
+      "vtex.menu@2.x:menu#category-tamanhos-250-300": {
+        "props": {
+          "orientation": "vertical"
+        },
+        "children": [
+        "menu-item#couros-peles",
+        "menu-item#estilo-persa",
+        "menu-item#kilim",
+        "menu-item#liso",
+        "menu-item#modernos",
+        "menu-item#sisal-sintetico",
+        "menu-item#tear"
+        ]
+
+      },
+
+      "menu-item#tamanhos-250-350":{
+        "props": {
+          "id": "menu-item-category-tamanhos-250-350",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tamanhos-250-350",
+            "noFollow": false,
+            "tagTitle": "TAMANHOS 250X350",
+            "text": "TAMANHOS 250X350"
+          }
+        },
+
+        "blocks": [
+          "vtex.menu@2.x:submenu#category-tamanhos-250-350"
+        ]
+      },
+      "vtex.menu@2.x:submenu#category-tamanhos-250-350": {
+        "props": {
+          "width": "auto"
+        },
+        "children": [
+          "vtex.menu@2.x:menu#category-tamanhos-250-350"
+        ]
+      },
+      "vtex.menu@2.x:menu#category-tamanhos-250-350": {
+        "props": {
+          "orientation": "vertical"
+        },
+        "children": [
+        "menu-item#couros-peles",
+        "menu-item#estilo-persa",
+        "menu-item#kilim",
+        "menu-item#liso",
+        "menu-item#modernos",
+        "menu-item#sisal-sintetico",
+        "menu-item#tear"
+        ]
+
+      },
+
+      "menu-item#tamanhos-300-400":{
+        "props": {
+          "id": "menu-item-category-tamanhos-300-400",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tamanhos-300-400",
+            "noFollow": false,
+            "tagTitle": "TAMANHOS 300X400",
+            "text": "TAMANHOS 300X400"
+          }
+        },
+
+        "blocks": [
+          "vtex.menu@2.x:submenu#category-tamanhos-300-400"
+        ]
+      },
+      "vtex.menu@2.x:submenu#category-tamanhos-300-400": {
+        "props": {
+          "width": "auto"
+        },
+        "children": [
+          "vtex.menu@2.x:menu#category-tamanhos-300-400"
+        ]
+      },
+      "vtex.menu@2.x:menu#category-tamanhos-300-400": {
+        "props": {
+          "orientation": "vertical"
+        },
+        "children": [
+        "menu-item#couros-peles",
+        "menu-item#estilo-persa",
+        "menu-item#kilim",
+        "menu-item#liso",
+        "menu-item#modernos",
+        "menu-item#sisal-sintetico",
+        "menu-item#tear"
+        ]
+      },
+
+      "menu-item#tamanhos-50-100":{
+        "props": {
+          "id": "menu-item-category-tamanhos-50-100",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tamanhos-50-100",
+            "noFollow": false,
+            "tagTitle": "TAMANHOS 50X100",
+            "text": "TAMANHOS 50X100"
+          }
+        },
+
+        "blocks": [
+          "vtex.menu@2.x:submenu#category-tamanhos-50-100"
+        ]
+      },
+      "vtex.menu@2.x:submenu#category-tamanhos-50-100": {
+        "props": {
+          "width": "auto"
+        },
+        "children": [
+          "vtex.menu@2.x:menu#category-tamanhos-50-100"
+        ]
+      },
+      "vtex.menu@2.x:menu#category-tamanhos-50-100": {
+        "props": {
+          "orientation": "vertical"
+        },
+        "children": [
+        "menu-item#couros-peles",
+        "menu-item#estilo-persa",
+        "menu-item#kilim",
+        "menu-item#liso",
+        "menu-item#modernos",
+        "menu-item#sisal-sintetico",
+        "menu-item#tear"
+        ]
+
+      },
+
+      "menu-item#tamanhos-60-120":{
+        "props": {
+          "id": "menu-item-category-tamanhos-60-120",
+          "type": "custom",
+          "iconId": null,
+          "highlight": false,
+          "itemProps": {
+            "type": "internal",
+            "href": "/tamanhos-60-120",
+            "noFollow": false,
+            "tagTitle": "TAMANHOS 60X120",
+            "text": "TAMANHOS 60X120"
+          }
+        },
+
+        "blocks": [
+          "vtex.menu@2.x:submenu#category-tamanhos-60-120"
+        ]
+      },
+      "vtex.menu@2.x:submenu#category-tamanhos-60-120": {
+        "props": {
+          "width": "auto"
+        },
+        "children": [
+          "vtex.menu@2.x:menu#category-tamanhos-60-120"
+        ]
+      },
+      "vtex.menu@2.x:menu#category-tamanhos-60-120": {
+        "props": {
+          "orientation": "vertical"
+        },
+        "children": [
+        "menu-item#couros-peles",
+        "menu-item#estilo-persa",
+        "menu-item#kilim",
+        "menu-item#liso",
+        "menu-item#modernos",
+        "menu-item#sisal-sintetico",
+        "menu-item#tear"
+        ]
+
+    },
+
+    "menu-item#todos": {
+      "props": {
+        "id": "menu-item-category-todos",
+        "type": "custom",
+        "iconId": null,
+        "highlight": false,
+        "itemProps": {
+          "type": "internal",
+          "href": "/#",
+          "noFollow": false,
+          "tagTitle": "TODOS",
+          "text": "TODOS"
+        }
+      },
+      "blocks": [
+        "vtex.menu@2.x:submenu#category-todos"
+      ]
+    },
+    "vtex.menu@2.x:submenu#category-todos": {
+      "props": {
+        "width": "auto"
+      },
+      "children": [
+        "vtex.menu@2.x:menu#category-todos"
+      ]
+    },
+    "vtex.menu@2.x:menu#category-todos": {
+      "props": {
+        "orientation": "vertical"
+      },
+      "children": [
+        "menu-item#tapetes",
+        "menu-item#passadeiras",
+        "menu-item#sisal-natural",
+        "menu-item#tamanhos-100-150",
+        "menu-item#tamanhos-150-200",
+        "menu-item#tamanhos-200-250",
+        "menu-item#tamanhos-200-300",
+        "menu-item#tamanhos-250-300",
+        "menu-item#tamanhos-250-350",
+        "menu-item#tamanhos-300-400",
+        "menu-item#tamanhos-50-100",
+        "menu-item#tamanhos-60-120"
+      ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+  "slider-layout#homedesktop": {
+    "children": ["image#1", "image#2","image#3", "image#4", "image#5"],
+    "props": {
+      "itemsPerPage": 5,
+      "arrows": false,
+      "minItemsPerPage": 1,
+      "autoplay": {
+        "timeout": 3000,
+        "stopOnHover": true
+      }
+    }
+  },
+  "slider-layout#homemobile": {
+    "children": ["image#1mobile", "image#2mobile","image#3mobile", "image#4mobile", "image#5mobile"],
+    "props": {
+      "arrows": false,
+      "minItemsPerPage": 1.5,
+      "autoplay": {
+        "timeout": 5000,
+        "stopOnHover": false
+      }
+    }
+  },
+
+  "image#1": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagem"
+    }
+  },
+
+  "image#2": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagem"
+    }
+  },
+  "image#3": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagem"
+    }
+  },
+  "image#4": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagem"
+    }
+  },
+  "image#5": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagem"
+    }
+  },
+  "image#1mobile": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagemMobile"
+    }
+  },
+
+  "image#2mobile": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagemMobile"
+    }
+  },
+  "image#3mobile": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagemMobile"
+    }
+  },
+  "image#4mobile": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagemMobile"
+    }
+  },
+  "image#5mobile": {
+    "props": {
+      "src": "https://raw.githubusercontent.com/carlosaalves10/hospitalarshop/main/minimum-boilerplate-theme/assets/imgs/doctor-2025726_1280.png",
+      "blockClass": "imagemMobile"
+    }
+  }
+}

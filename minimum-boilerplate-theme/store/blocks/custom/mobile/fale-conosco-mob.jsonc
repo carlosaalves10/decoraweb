@@ -1,0 +1,13 @@
+{
+    "responsive-layout.mobile#fale":{
+    "children":[
+        "rich-text#fale-conosco-title-phone"
+    ]
+},
+
+"rich-text#fale-conosco-title-phone":{
+    "props":{
+        "text": "Fale Conosco \n\n Horário de Atendimento \n\n De Segunda a Sexta Feira, das 09:00 as 18:00 \n\n Telefone: (11) 97152-9636 \n\n Whatsapp: (11) 97152-9636 \n\n Email: celso@decoraweb.com.br / Lucia@zariftapetes.com.br"
+    }
+}
+}
